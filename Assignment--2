@@ -1,0 +1,26 @@
+#positive or negative
+n=int(input('Enter n'))
+if n>=0:
+    print('Positive')
+else:
+    print('negative')
+    
+
+Output-1:
+Enter n
+4
+Positive
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+
+Output-2:
+Enter n
+-5
+negative
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+
